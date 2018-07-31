@@ -1,0 +1,16 @@
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/GameFrameServer.exe.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/GameFrameServer.exe
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/obj/Debug/GameFrameServer.exe
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/obj/Debug/GameFrameServer.exe.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/obj/Debug/GameFrameServer.Mapping.AccountModel.hbm.xml
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/obj/Debug/GameFrameServer.Mapping.PlayerInfoModel.hbm.xml
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/NHibernate.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/Common.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/Common.dll.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/ServerFrame.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/ServerFrame.dll.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/Iesi.Collections.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/protobuf-net.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/hibernate.cfg.xml
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/GameFrameServer/bin/Debug/MySql.Data.dll

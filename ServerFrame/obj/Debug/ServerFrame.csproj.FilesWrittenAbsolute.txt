@@ -1,0 +1,8 @@
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/bin/Debug/ServerFrame.dll.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/bin/Debug/ServerFrame.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/obj/Debug/ServerFrame.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/obj/Debug/ServerFrame.dll.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/bin/Debug/Common.dll
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/bin/Debug/Common.dll.mdb
+/Users/ww/Desktop/serverdir/GameFrameServer/GameFrameServer/ServerFrame/bin/Debug/protobuf-net.dll
